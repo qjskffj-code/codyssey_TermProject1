@@ -77,7 +77,7 @@
 
 #### 화면 1. 진입 (스플래시)
 
-![화면 1 진입](./images/01_splash.png)
+<img src="./images/01_splash.png" width="280">
 
 **화면 역할** 진입. 앱을 켰을 때 어떤 서비스인지 한눈에 알린다
 
@@ -93,7 +93,7 @@
 
 #### 화면 2. 알림 등록 (교통수단 · 일정)
 
-![화면 2 알림 등록 상단](./images/02_register_basic.png)
+<img src="./images/02_register_basic.png" width="280">
 
 **화면 역할** 입력. 어디서 어디로, 언제, 몇 명이 가는지 등록한다
 
@@ -110,7 +110,7 @@
 
 #### 화면 3. 알림 등록 (세부 조건)
 
-![화면 3 알림 등록 하단](./images/03_register_condition.png)
+<img src="./images/03_register_condition.png" width="280">
 
 **화면 역할** 입력. 좌석 조건을 자세히 고른다. 이 서비스의 차별점이 드러나는 부분이다
 
@@ -128,7 +128,7 @@
 
 #### 화면 4. 모니터링 현황
 
-![화면 4 모니터링 현황](./images/04_monitoring.png)
+<img src="./images/04_monitoring.png" width="280">
 
 **화면 역할** 관리. 걸어둔 요청이 지금 어떤 상태인지 확인한다
 
@@ -144,7 +144,7 @@
 
 #### 화면 5. 알림
 
-![화면 5 알림](./images/05_notification.png)
+<img src="./images/05_notification.png" width="280">
 
 **화면 역할** 결과. 찾아낸 취소표를 확인한다
 
